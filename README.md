@@ -7,8 +7,6 @@ This is a demo of different ways to pass data between Angular components using a
 - Sibling using Query Parameters
 - Sibling using a data service
 
-## Blog
-
 Check out the associate [blog](https://davestaudenmaier.github.io/share-data) for an explanation.
 
 ## Development server
