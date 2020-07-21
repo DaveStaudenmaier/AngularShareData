@@ -17,8 +17,4 @@ export class HeaderMobileComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  onChangeProfileImage() {
-    this.router.navigateByUrl('/profile/personal');
-  }
-
 }

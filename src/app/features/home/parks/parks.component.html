@@ -1,0 +1,12 @@
+<mat-card class="example-card">
+  <mat-card-header>
+    <mat-card-title>National Parks</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+      <ul *ngFor="let park of parks; let i=index">
+        <li>
+          <button mat-button (click)="onPark(i)">{{ park.name }} - {{ park.state }}</button>
+        </li>
+      </ul>
+  </mat-card-content>
+</mat-card>
