@@ -9,7 +9,7 @@ This is a demo of different ways to pass data between Angular components using a
 
 ## Blog
 
-Check out the associate blog](https://davestaudenmaier.github.io/share-data) for an explanation.
+Check out the associate [blog](https://davestaudenmaier.github.io/share-data) for an explanation.
 
 ## Development server
 
